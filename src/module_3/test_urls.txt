@@ -1,0 +1,5 @@
+https://httpbin.org/json
+https://httpbin.org/status/404
+https://httpbin.org/status/500
+https://api.github.com/users/octocat
+https://nonexistent-domain-12345.com
